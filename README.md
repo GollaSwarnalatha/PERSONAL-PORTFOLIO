@@ -34,3 +34,15 @@ THE CONTACT SECTION PROVIDES MULTIPLE WAYS TO CONNECT, INCLUDING A PHONE NUMBER,
 
 THE WEBSITE'S RESPONSIVE DESIGN ENSURES OPTIMAL VIEWING ACROSS ALL DEVICES,WHILE THE GRADIENT BACKGROUNDS AND SMOOTH ANIMATIONS CREATE A PROFESSIONAL AND POLISHED APPEARENCE.
 
+***OUTPUT***
+
+![Image](https://github.com/user-attachments/assets/5d33280f-b5ca-47bf-818b-9ae18686d924)
+
+![Image](https://github.com/user-attachments/assets/c1ac737f-1b04-4166-ae38-035cddde64ed)
+
+![Image](https://github.com/user-attachments/assets/9b82085e-7926-4cfe-972d-dae489156925)
+
+![Image](https://github.com/user-attachments/assets/e81a92ee-38a5-434a-890b-74d847e90eba)
+
+![Image](https://github.com/user-attachments/assets/e9160dd6-4768-4fe3-8871-bcccc4ee7a5e)
+
